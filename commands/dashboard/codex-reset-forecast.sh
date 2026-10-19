@@ -9,9 +9,9 @@
 
 # Optional parameters:
 # @raycast.icon 🔄
-# @raycast.author codex-reset.com
+# @raycast.author suvadadepolo-blip
 # @raycast.authorURL https://github.com/suvadadepolo-blip
-# @raycast.description Chance that OpenAI resets Codex usage limits in the next 24/48 hours, and days since the last confirmed reset. Free public API, no key. Data: codex-reset.com
+# @raycast.description Chance that OpenAI resets Codex usage limits in the next 24/48 hours, and days since the last confirmed reset. Free public API, no key.
 
 # Global early resets only; your own 5-hour/weekly window is shown by /status in Codex.
 # JSON is read with macOS's built-in plutil, so no jq is needed.
